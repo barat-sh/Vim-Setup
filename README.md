@@ -1,6 +1,6 @@
 <h1>Customized Lazy-NeoVim</h1>
 
-<img src="./img/Screenshot 2023-12-24 at 10.13.27 PM.png" alt="UI img" style="width: 150px, height: 100px"/>
+<img src="./img/Screenshot 2023-12-24 at 10.13.27 PM.png" alt="UI img" style="width: 100px, height: 150px"/>
 
 <h3>Bring it locally...</h3>
 

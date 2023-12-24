@@ -38,4 +38,10 @@ git clone https://github.com/barat-ssh/Lazy-vim.git
 rm -rf img
 ```
 
-<i> Please feel free to contribute!, Thanks</i>
+```plaintext
+nvim
+```
+<spam>Give it some time to install plugins</spam>
+
+<h2><i>Thanks...</i></h2>
+<i> Please feel free to contribute!, Thanks <a href="https://twitter.com/_barat_tw">@_barat</a></i>

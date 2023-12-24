@@ -5,6 +5,7 @@
 <h3>Steps to use</h3>
 
 <h4>mac</h4>
+
 ```plaintext
 brew install neovim
 ```
@@ -29,4 +30,4 @@ clone repo -> git clone https://github.com/barat-ssh/Lazy-vim.git
 rm -rf img
 ```
 
-<i>feel free to raise pull request if there is any improvement that to be made. Thanks</i>
+<i> Please feel free to contribute!, Thanks</i>

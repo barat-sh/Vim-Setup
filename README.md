@@ -4,9 +4,13 @@
 
 <h4>Steps to use</h4>
 
-install neovim
+```plaintext
+brew install neovim
+```
 
+```plaintext
 cd ~/.config
+```
 
 mkdir nvim
 

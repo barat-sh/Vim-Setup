@@ -2,7 +2,7 @@
 
 <img src="./img/Screenshot 2023-12-24 at 10.13.27 PM.png" alt="UI img" style="width: 60px, height: 80px"/>
 
-<img src="./img/nvim_files.png" alt="file_skleton" stype="width:10px, height: 20" />
+<img src="./img/nvim_files.png" alt="file_skleton" stype="width: 8px, height: 14px" />
 
 <h3>Bring it locally...</h3>
 
@@ -43,6 +43,7 @@ rm -rf img
 ```plaintext
 nvim
 ```
+
 <spam>Give it some time to install plugins</spam>
 
 <h2><i>Thanks...</i></h2>

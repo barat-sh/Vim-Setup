@@ -1,6 +1,8 @@
 <h1>Customized Lazy-NeoVim</h1>
 
-<img src="./img/Screenshot 2023-12-24 at 10.13.27 PM.png" alt="UI img" style="width: 70px, height: 100px"/>
+<img src="./img/Screenshot 2023-12-24 at 10.13.27 PM.png" alt="UI img" style="width: 60px, height: 80px"/>
+
+<img src="./img/nvim_files.png" alt="file_skleton" stype="width:10px, height: 20" />
 
 <h3>Bring it locally...</h3>
 

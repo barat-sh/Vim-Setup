@@ -37,7 +37,7 @@ function M.rgbToHsl(r, g, b)
 	l = (max + min) / 2
 
 	if max == min then
-		h, s = 0, 0 -- achromatic
+		h, s = 0, 0
 	else
 		local d = max - min
 		if l > 0.5 then
@@ -138,7 +138,7 @@ function M.replaceHexWithHSL()
 	-- Get the current line number
 	local line_number = vim.api.nvim_win_get_cursor(0)[1]
 
-	-- Get the line content
+	-- Get current line content
 	local line_content = vim.api.nvim_buf_get_lines(0, line_number - 1, line_number, false)[1]
 
 	-- Find hex code patterns and replace them
@@ -147,7 +147,7 @@ function M.replaceHexWithHSL()
 		line_content = line_content:gsub(hex, hsl)
 	end
 
-	-- Set the line content back
+	-- Set current line content back
 	vim.api.nvim_buf_set_lines(0, line_number - 1, line_number, false, { line_content })
 end
 

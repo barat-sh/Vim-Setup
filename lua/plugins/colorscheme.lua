@@ -1,12 +1,12 @@
 return {
 	{
-		"craftzdog/solarized-osaka.nvim",
-		lazy = true,
+		"sainnhe/sonokai",
 		priority = 1000,
-		opts = function()
-			return {
-				transparent = true,
-			}
+		config = function()
+			vim.g.sonokai_transparent_background = "2"
+			vim.g.sonokai_enable_italic = "1"
+			vim.g.sonokai_style = "andromeda"
+			vim.cmd.colorscheme("sonokai")
 		end,
 	},
 }
